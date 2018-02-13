@@ -20,7 +20,7 @@ msgstr ""
 #. module: partner_contact_birthdate
 #: field:res.partner,birthdate_date:0
 msgid "Birthdate"
-msgstr ""
+msgstr "Geboortedatum"
 
 #. module: partner_contact_birthdate
 #: code:addons/partner_contact_birthdate/models.py:52
