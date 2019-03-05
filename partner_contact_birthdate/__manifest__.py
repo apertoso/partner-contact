@@ -4,18 +4,17 @@
 
 {
     "name": "Contact's birthdate",
-    'version': '11.0.1.0.1',
+    'version': '11.0.1.0.0',
     "author": "Tecnativa,"
               "Odoo Community Association (OCA)",
     "category": "Customer Relationship Management",
-    "website": "https://www.tecnativa.com/",
+    "website": "https://github.com/OCA/partner-contact",
     "depends": [
-        "partner_contact_personal_information_page",
+        "base",
     ],
     "data": [
         "views/res_partner.xml",
     ],
-    "post_init_hook": "post_init_hook",
     "license": "AGPL-3",
     'installable': True,
 }
